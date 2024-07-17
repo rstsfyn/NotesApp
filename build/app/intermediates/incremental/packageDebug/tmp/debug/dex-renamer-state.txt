@@ -1,4 +1,16 @@
-#Mon Jun 19 13:06:48 WIB 2023
-base.0=D\:\\CODINGANKU\\FLUTTER\\Notes APP\\flutter_uty_note_app-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed Jul 17 15:12:33 WIB 2024
+base.0=D\:\\CODINGANKU\\FLUTTER\\NoteApp\\catatankuu\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\CODINGANKU\\FLUTTER\\NoteApp\\catatankuu\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.2=D\:\\CODINGANKU\\FLUTTER\\NoteApp\\catatankuu\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=D\:\\CODINGANKU\\FLUTTER\\NoteApp\\catatankuu\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.4=D\:\\CODINGANKU\\FLUTTER\\NoteApp\\catatankuu\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
 path.0=classes.dex
+path.1=0/classes.dex
+path.2=0/classes.dex
+path.3=14/classes.dex
+path.4=1/classes.dex
 renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex

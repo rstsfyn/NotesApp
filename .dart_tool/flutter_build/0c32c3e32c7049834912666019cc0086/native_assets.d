@@ -1,0 +1,1 @@
+ D:\\CODINGANKU\\FLUTTER\\NoteApp\\catatankuu\\.dart_tool\\flutter_build\\0c32c3e32c7049834912666019cc0086\\native_assets.yaml: 
