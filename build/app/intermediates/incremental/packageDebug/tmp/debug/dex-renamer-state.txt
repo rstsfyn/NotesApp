@@ -1,0 +1,4 @@
+#Mon Jun 19 13:06:48 WIB 2023
+base.0=D\:\\CODINGANKU\\FLUTTER\\Notes APP\\flutter_uty_note_app-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
